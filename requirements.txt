@@ -2,4 +2,10 @@ jupyterlab
 jupyter-book
 jupytext
 seaborn
+nltk
+textblob
+wordcloud
+dask[complete]
+pyarrow
+statsmodels
 
